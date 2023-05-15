@@ -2,7 +2,7 @@
 
 int main()
 {
-    int n, c;
+    int n, c = 0;
     
     printf("qual o numero?");
     scanf("%d", &n);
